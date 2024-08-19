@@ -14,4 +14,4 @@ classifiers = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/tyanderson/html_mailer"
+Homepage = "https://github.com/ty-anderson/py_html_email"
