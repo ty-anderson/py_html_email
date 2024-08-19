@@ -3,7 +3,8 @@
 This library simplifies sending HTML formated emails. 
 Currently there is one HTML format. Planning for future releases to customize format.
 
-To use, simply pip install.
+To install, use pip:
+`pip install py_html_email`
 
 Example:
 ```python
